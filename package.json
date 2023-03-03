@@ -1,0 +1,27 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "This is a project to learn Data Structures with Javascript",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordhanlucaso/DataStructures.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Jordhan L. Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordhanlucaso/DataStructures/issues"
+  },
+  "homepage": "https://github.com/jordhanlucaso/DataStructures#readme"
+}
